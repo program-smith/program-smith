@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @program-smith
-- 👀 I’m interested in Cyber Security
+- 👀 I’m a script kiddie in Cyber Security
 
 <!---
 program-smith/program-smith is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
